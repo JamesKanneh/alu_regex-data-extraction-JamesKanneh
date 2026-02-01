@@ -8,7 +8,7 @@ Website: https://www.store.com/checkout
 Time reported: 2:30 PM
 Refund amount: $49.99
 
-TICKET #1246  
+TICKET #1246
 Customer: Mike Chen (m.chen@company.org)
 Phone: 555-987-6543
 Card ending in 9910 (full: 5425-2334-3010-9910)
