@@ -1,0 +1,37 @@
+{
+  "status": "SUCCESS",
+  "emails": [
+    "h***r@gmail.com",
+    "m***n@company.org",
+    "m***c@workmail.co.uk",
+    "t***t@company.org",
+    "b***g@finance.com",
+    "l***k@email.net",
+    "j***e@personal.com",
+    "s***n@techmail.com",
+    "s***t@company.com",
+    "c***s@store.net"
+  ],
+  "urls": [
+    "https://www.checkout.example",
+    "https://portal.example",
+    "https://secure.payment",
+    "https://www.example-company.com",
+    "https://shop.example",
+    "https://www.store.com/checkout",
+    "https://reviews.example",
+    "https://help.example"
+  ],
+  "phones": [
+    "555-987-6543",
+    "555-111-2222",
+    "(555) 234-5678",
+    "(555) 000-1111",
+    "(555) 123-4567"
+  ],
+  "cards": [
+    "****-****-****-4444",
+    "****-****-****-1111",
+    "****-****-****-1117"
+  ]
+}

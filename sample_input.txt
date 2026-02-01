@@ -1,0 +1,48 @@
+Customer Service Report - January 2026
+
+TICKET #1245
+Customer: Sarah Johnson (sarah.johnson@techmail.com)
+Phone: (555) 123-4567
+Issue: Payment failed using card 4532-1234-5678-9010
+Website: https://www.store.com/checkout
+Time reported: 2:30 PM
+Refund amount: $49.99
+
+TICKET #1246  
+Customer: Mike Chen (m.chen@company.org)
+Phone: 555-987-6543
+Card ending in 9910 (full: 5425-2334-3010-9910)
+Website: https://portal.example.com/account
+Purchased at: https://shop.example.com/products
+Alternative contact: mike.c@workmail.co.uk
+
+TICKET #1247
+Customer: Lisa Park (lisa_park@email.net)
+Phone: (555) 234-5678
+Invalid card: 1234-5678-9012-3456 (declined)
+Valid backup card: 6011-1111-1111-1117
+Website issue at: https://www.checkout.example.org/payment
+
+SOCIAL MEDIA MENTIONS
+- Customer @happy_buyer (happy.buyer@gmail.com) praised service
+- Review site: https://reviews.example.com/store-ratings
+- Contact support: support@company.com or call (555) 000-1111
+
+PAYMENT SUMMARY
+Total processed: $1,234.56
+Average transaction: $89.99
+Contact billing at billing@finance.com for questions
+Payment gateway: https://secure.payment.com/api/v2/process
+
+CUSTOMER FEEDBACK
+"Great experience! Email confirmation sent to my address john.doe@personal.com"
+- Phone support: 555-111-2222
+- Help center: https://help.example.com/contact
+
+TEST CARDS FOR STAGING (DO NOT USE IN PRODUCTION)
+Visa: 4111-1111-1111-1111
+Mastercard: 5555-5555-5555-4444
+
+All customer inquiries: customers@store.net
+Technical support: tech.support@company.org
+Visit us at: https://www.example-company.com
