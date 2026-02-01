@@ -26,7 +26,4 @@ python3 "Data extractor.py"
 }
 ```
 
-## Notes
-- Inputs with `<script`, `javascript:`, `UNION SELECT`, or `DROP TABLE` are rejected.
-- Emails and cards are masked in output.
-- Only 16-digit cards passing Luhn validation are included.
+.
