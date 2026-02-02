@@ -1,6 +1,6 @@
 Customer Service Report - January 2026
 
-TICKET #1245
+TICKET
 Customer: Sarah Johnson (sarah.johnson@techmail.com)
 Phone: (555) 123-4567
 Issue: Payment failed using card 4532-1234-5678-9010
@@ -8,16 +8,16 @@ Website: https://www.store.com/checkout
 Time reported: 2:30 PM
 Refund amount: $49.99
 
-TICKET #1246
-Customer: Mike Chen (m.chen@company.org)
+TICKET
+Customer:Obinna Nwaka (o.nwaka@company.org)
 Phone: 555-987-6543
 Card ending in 9910 (full: 5425-2334-3010-9910)
 Website: https://portal.example.com/account
 Purchased at: https://shop.example.com/products
-Alternative contact: mike.c@workmail.co.uk
+Alternative contact: obinna.n@workmail.co.ng
 
-TICKET #1247
-Customer: Lisa Park (lisa_park@email.net)
+TICKET
+Customer: Geebah Kanneh (geebah_kanneh@email.net)
 Phone: (555) 234-5678
 Invalid card: 1234-5678-9012-3456 (declined)
 Valid backup card: 6011-1111-1111-1117
@@ -45,4 +45,4 @@ Mastercard: 5555-5555-5555-4444
 
 All customer inquiries: customers@store.net
 Technical support: tech.support@company.org
-Visit us at: https://www.example-company.com
+Visit us at: https://www.jamesexample-company.com
