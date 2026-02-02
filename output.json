@@ -1,7 +1,37 @@
 {
   "status": "SUCCESS",
-  "emails": [],
-  "urls": [],
-  "phones": [],
-  "cards": []
+  "emails": [
+    "c***s@store.net",
+    "o***a@company.org",
+    "g***h@email.net",
+    "h***r@gmail.com",
+    "j***e@personal.com",
+    "t***t@company.org",
+    "o***n@workmail.co.ng",
+    "s***n@techmail.com",
+    "s***t@company.com",
+    "b***g@finance.com"
+  ],
+  "urls": [
+    "https://www.checkout.example",
+    "https://shop.example",
+    "https://www.jamesexample-company.com",
+    "https://portal.example",
+    "https://secure.payment",
+    "https://reviews.example",
+    "https://help.example",
+    "https://www.store.com/checkout"
+  ],
+  "phones": [
+    "(555) 123-4567",
+    "(555) 000-1111",
+    "555-111-2222",
+    "555-987-6543",
+    "(555) 234-5678"
+  ],
+  "cards": [
+    "****-****-****-1117",
+    "****-****-****-4444",
+    "****-****-****-1111"
+  ]
 }
